@@ -1,5 +1,4 @@
 # Model-Transfer-Learning-untuk-Klasifikasi-Suara-Burung-di-TNWK
-![Untitled design](https://github.com/user-attachments/assets/7ae1ddc0-7def-4b74-a81e-edc849346ccf)
 
 
 #### Topik: Implementasi Variasi Model Transfer Learning untuk klasifikasi birds call and song di Indonesia Bagian Barat
@@ -8,7 +7,7 @@
 
 
 
-Kelompok 13 Deep Learning:
+![Untitled design](https://github.com/user-attachments/assets/7ae1ddc0-7def-4b74-a81e-edc849346ccf)  Kelompok 13 Deep Learning:
 
 - Rizki Adrian Bennovry - 121450073 
   
