@@ -20,7 +20,7 @@ Kelompok 13 Deep Learning:
 - Helma Lia Putri - 121450100
 
 
-Data: https://avibase.bsc-eoc.org/ , https://avibase.bsc-eoc.org/
+Data: https://xeno-canto.org/ , https://avibase.bsc-eoc.org/
 
 Metode Pengumpulan Data: Data Crawling (APIs)
 
