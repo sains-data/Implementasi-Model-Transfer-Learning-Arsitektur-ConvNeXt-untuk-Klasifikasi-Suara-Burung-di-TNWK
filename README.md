@@ -32,6 +32,4 @@ Bahasa pemrograman: PYTHON, HTML, CSS
 
 Hosting dan Development: Streamlit
 
-Link deployment (on progress): https://klasifikasiburung-transferlearning-kelompok13.streamlit.app
-
 ![Untitled design](https://github.com/user-attachments/assets/7ae1ddc0-7def-4b74-a81e-edc849346ccf)  
