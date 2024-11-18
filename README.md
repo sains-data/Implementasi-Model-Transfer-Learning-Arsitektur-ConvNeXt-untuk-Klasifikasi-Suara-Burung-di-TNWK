@@ -1,5 +1,6 @@
 # Model-Transfer-Learning-untuk-Klasifikasi-Suara-Burung-di-TNWK
 
+![Uploading Logo0.png…]()
 
 #### Topik: Implementasi Variasi Model Transfer Learning untuk klasifikasi birds call and song di Indonesia Bagian Barat
 
@@ -7,7 +8,7 @@
 
 
 
-Kelompok 13 Deep Learning
+Kelompok 13 Deep Learning:
 
 - Rizki Adrian Bennovry - 121450073 
   
@@ -20,7 +21,7 @@ Kelompok 13 Deep Learning
 - Helma Lia Putri - 121450100
 
 
-Data: Xeno-canto, avibase
+Data: https://avibase.bsc-eoc.org/ , https://avibase.bsc-eoc.org/
 
 Metode Pengumpulan Data: Data Crawling (APIs)
 
