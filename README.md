@@ -20,7 +20,9 @@ Kelompok 13 Deep Learning:
 - Helma Lia Putri - 121450100
 
 
-Data: https://xeno-canto.org/ , https://avibase.bsc-eoc.org/
+Data: 
+- https://xeno-canto.org/ (Data Audio)
+- https://avibase.bsc-eoc.org/ (Daftar Burung di area atau kawasan tertentu)
 
 Metode Pengumpulan Data: Data Crawling (APIs)
 
@@ -28,6 +30,6 @@ Metode Model : Transfer Learning (Arsitektur ConvNeXt)
 
 Bahasa pemrograman: PYTHON, HTML, CSS
 
-Hosting dan Development: Streamlit /Flask
+Hosting dan Development: Streamlit
 
-Link deployment (kerangka): https://klasifikasiburung-transferlearning-kelompok13.streamlit.app
+Link deployment (on progress): https://klasifikasiburung-transferlearning-kelompok13.streamlit.app
