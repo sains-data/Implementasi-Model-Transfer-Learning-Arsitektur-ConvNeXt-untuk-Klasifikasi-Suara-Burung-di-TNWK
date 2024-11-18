@@ -1,7 +1,6 @@
 # Model-Transfer-Learning-untuk-Klasifikasi-Suara-Burung-di-TNWK
 
-![Logo0](https://github.com/user-attachments/assets/3a461cd0-7308-48af-b685-05aff80f5787)
-
+![Logo0](https://github.com/user-attachments/assets/50b6b566-786f-4184-b18e-e533a05692c3)
 
 
 #### Topik: Implementasi Variasi Model Transfer Learning untuk klasifikasi birds call and song di Indonesia Bagian Barat
