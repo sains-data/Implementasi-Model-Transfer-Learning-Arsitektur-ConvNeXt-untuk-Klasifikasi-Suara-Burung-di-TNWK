@@ -32,4 +32,3 @@ Bahasa pemrograman: PYTHON, HTML, CSS
 
 Hosting dan Development: Streamlit
 
-![Untitled design](https://github.com/user-attachments/assets/7ae1ddc0-7def-4b74-a81e-edc849346ccf)  
