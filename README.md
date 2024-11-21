@@ -1,6 +1,6 @@
 # Model-Transfer-Learning-untuk-Klasifikasi-Suara-Burung-di-TNWK
 
-
+# --on progress--
 #### Topik: Implementasi Variasi Model Transfer Learning untuk klasifikasi birds call and song di Indonesia Bagian Barat
 
 #### Judul Proyek: Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Kicauan Burung di Taman Nasional Way Kambas
