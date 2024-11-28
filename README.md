@@ -38,3 +38,6 @@ Tahapan Proses:
 - Model Build
 - Evaluation Model
 - System integration & deployment to website
+  
+
+© Developer: Kelompok 13 Deep Learning
