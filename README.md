@@ -1,13 +1,10 @@
 # Model-Transfer-Learning-untuk-Klasifikasi-Suara-Burung-di-TNWK
 
 # --on progress--
-#### Topik: Implementasi Variasi Model Transfer Learning untuk klasifikasi birds call and song di Indonesia Bagian Barat
-
 #### Judul Proyek: Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Kicauan Burung di Taman Nasional Way Kambas
 
 
-
-Kelompok 13 Deep Learning:
+1️⃣3️⃣ Kelompok 13 Deep Learning:
 
 - Rizki Adrian Bennovry - 121450073 
   
@@ -20,15 +17,24 @@ Kelompok 13 Deep Learning:
 - Helma Lia Putri - 121450100
 
 
-Data: 
+🎙 Data: 
 - https://xeno-canto.org/ (Data Audio)
-- https://avibase.bsc-eoc.org/ (Daftar Burung di area atau kawasan tertentu)
+- https://avibase.bsc-eoc.org/ (referensi Daftar Persebaran burung di area atau kawasan tertentu)
 
 Metode Pengumpulan Data: Data Crawling (APIs)
 
-Metode Model : Transfer Learning (Arsitektur ConvNeXt)
+📊 Metode Model : Transfer Learning (Arsitektur ConvNeXt type Base)
 
-Bahasa pemrograman: PYTHON, HTML, CSS
+🖥 Bahasa pemrograman: Python, Html, CSS, other
 
-Hosting dan Development: Streamlit
+🌐 Hosting dan Development (Streamlit): https://klasifikasiburung-transferlearning-kelompok13.streamlit.app/
 
+
+Tahapan Proses:
+- Data Crawling
+- Data Preprocessing & Processing
+- Split Data
+- Setting Hyperparamater
+- Model Build
+- Evaluation Model
+- System integration & deployment to website
