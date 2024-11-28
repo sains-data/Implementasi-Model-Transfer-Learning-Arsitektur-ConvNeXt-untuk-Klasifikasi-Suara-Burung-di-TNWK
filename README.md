@@ -28,7 +28,8 @@ Metode Pengumpulan Data: Data Crawling (APIs)
 🖥 Bahasa pemrograman: Python, Html, CSS, other
 
 🌐 Hosting dan Development (Streamlit): https://klasifikasiburung-transferlearning-kelompok13.streamlit.app/
-     Rancangan(progress)--> https://drive.google.com/file/d/1mbuMNgWYskPg0sAPCgZUB8XOnfDry6dK/view?usp=sharing
+
+  Rancangan(progress)--> https://drive.google.com/file/d/1mbuMNgWYskPg0sAPCgZUB8XOnfDry6dK/view?usp=sharing
 
 
 Tahapan Proses:
