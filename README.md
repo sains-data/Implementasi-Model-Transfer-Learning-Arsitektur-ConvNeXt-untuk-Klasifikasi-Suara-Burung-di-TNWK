@@ -1,8 +1,6 @@
-# Model-Transfer-Learning-untuk-Klasifikasi-Suara-Burung-di-TNWK
+# Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Kicauan Burung di Taman Nasional Way Kambas
 
 # --on progress--
-#### Judul Proyek: Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Kicauan Burung di Taman Nasional Way Kambas
-
 
 1️⃣3️⃣ Kelompok 13 Deep Learning:
 
