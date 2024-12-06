@@ -1,4 +1,6 @@
 # Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Kicauan Burung di Taman Nasional Way Kambas
+![image](https://github.com/user-attachments/assets/a17e5574-cc63-463d-bf67-a6fabc62ae55)
+
 
 # --on progress--
 
