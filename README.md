@@ -29,9 +29,9 @@ Metode Pengumpulan Data: Data Crawling (APIs)
 
 🌐 Hosting dan Development (Streamlit): 
 
-WEB: https://klasifikasiburung-transferlearning-kelompok13.streamlit.app/ (versi Beta)
+  -Website: https://klasifikasiburung-transferlearning-kelompok13.streamlit.app/ (versi Beta)
 
-APP Handphone: https://app-deteksiklasifikasispesiesburung.streamlit.app/ (versi beta)
+  -Apps: https://app-deteksiklasifikasispesiesburung.streamlit.app/ (versi beta)
 
   Rancangan(progress)--> https://drive.google.com/file/d/1mbuMNgWYskPg0sAPCgZUB8XOnfDry6dK/view?usp=sharing
 
