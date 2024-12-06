@@ -16,12 +16,15 @@
   
 - Helma Lia Putri - 121450100
 
+Latar Belakang: ....
+
+Tujuan: ......
 
 🎙 Data: 
 - https://xeno-canto.org/ (Data Audio)
 - https://avibase.bsc-eoc.org/ (referensi Daftar Persebaran burung di area atau kawasan tertentu)
 
-Metode Pengumpulan Data: Data Crawling (APIs)
+📊 Metode Pengumpulan Data: Data Crawling (APIs)
 
 📊 Metode Model : Transfer Learning (Arsitektur ConvNeXt type Base)
 
@@ -29,9 +32,7 @@ Metode Pengumpulan Data: Data Crawling (APIs)
 
 🌐 Hosting dan Development (Streamlit): 
 
-  -Website: https://klasifikasiburung-transferlearning-kelompok13.streamlit.app/ (versi Beta)
-
-  -Apps: https://app-deteksiklasifikasispesiesburung.streamlit.app/ (versi beta)
+ https://klasifikasiburung-transferlearning-kelompok13.streamlit.app/ (versi trial)
 
   Rancangan(progress)--> https://drive.google.com/file/d/1mbuMNgWYskPg0sAPCgZUB8XOnfDry6dK/view?usp=sharing
 
