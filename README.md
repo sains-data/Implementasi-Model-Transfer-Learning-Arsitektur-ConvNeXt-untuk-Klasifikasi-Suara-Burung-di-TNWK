@@ -4,7 +4,7 @@
 
 📱Avcla: https://avcla2024.streamlit.app/ (Versi Beta)
 
-anda bisa mencoba test Avcla kami bangun, dengan beberapa audio yang tersedia pada link berikut: https://drive.google.com/drive/folders/1oEdNhsFCuxaBT8VN8tfUHUu-1DX8oNQE?usp=sharing
+anda bisa mencoba test Avcla kami kembangkan, dengan beberapa audio yang tersedia pada link berikut: https://drive.google.com/drive/folders/1oEdNhsFCuxaBT8VN8tfUHUu-1DX8oNQE?usp=sharing
 
 Kelompok 13 Deep Learning:
 
