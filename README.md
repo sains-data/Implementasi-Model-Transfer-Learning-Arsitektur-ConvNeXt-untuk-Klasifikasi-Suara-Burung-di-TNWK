@@ -57,3 +57,5 @@ Hasil Akurasi Implementasi Model dengan beberapa parameter:
 | 32         |     0.00       | 50 (Augmentasi Data)     |   0.71  |
 
 © Developer: Kelompok 13 Deep Learning
+
+Jika terdapat Kritik, Saran ataupun kendala terkait penggunaan Avcla bisa menghubungi: alber.121450146@student.itera.ac.id
