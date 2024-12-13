@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
 
-Avcla: https://avcla2024.streamlit.app/
+Avcla: https://avcla2024.streamlit.app/ (Versi Trial)
 
 anda bisa mencoba test Avcla kami bangun, dengan beberapa audio yang tersedia pada link berikut: https://drive.google.com/drive/folders/1oEdNhsFCuxaBT8VN8tfUHUu-1DX8oNQE?usp=sharing
 
