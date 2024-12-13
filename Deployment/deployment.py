@@ -14,19 +14,21 @@ from tensorflow.keras.utils import get_file
 def add_custom_header():
     html_code = """
     <html>
-    <body style="text-align: center; margin: 20px;">
-        <div style="display: inline-block; margin-bottom: 10px;"> 
+    <body margin: 20px;">
+        <div style="text-align: center; margin-top: 30px; padding: 10px"> 
             <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Deployment/asset/Logo1.png" alt="Logo 1" width="85" height="85">    
             <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Deployment/asset/Logo2.png" alt="Logo 2" width="85" height="85"> 
             <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Deployment/asset/Logo3.png" alt="Logo 3" width="85" height="85">
             <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Deployment/asset/Logo0.png" alt="Logo kelompok" width="85" height="85">
         </div>
-        <h1 style="font-size: 35px; margin-top: 20px;">
-            AVCLA (Aves Classification)
-        </h1>
-        <h2 style="font-size: 35px; margin-top: 20px;">
-            Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Suara Burung di Taman Nasional Way Kambas
-        </h2>
+        <div class="header" style="text-align: center; margin-top: 30px; padding: 10px">
+            <h1 style="font-size: 35px; tyle="text-align: center; margin-top: 20px;">
+                AVCLA (Aves Classification)
+            </h1>
+            <h4 style="font-size: 28px; margin-top: 20px;">
+                Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Suara Burung di Taman Nasional Way Kambas
+            </h4>
+        </div>
     </body>
     </html>
     """
@@ -152,7 +154,7 @@ def add_bg_from_url():
 add_bg_from_url()
 
 # File uploader untuk audio
-uploaded_file = st.file_uploader("Upload File Audio Here", type=["mp3"])
+uploaded_file = st.file_uploader("Upload File Audio disini (!format mp3)", type=["mp3"])
 
 if uploaded_file:
     # Proses file audio
@@ -198,7 +200,7 @@ if uploaded_file:
     elif kelas  == 'Surniculus Lugubris':
         image_url = "https://raw.githubusercontent.com/deeplearning13projectsd/DeteksiKlasifikasiSpesiesBurung/main/Deployment/asset/kelas/j.png"
 
-    st.image(image_url, caption=f"Kelas: {kelas}", use_column_width=False)
+    st.image(image_url, caption=f"Kelas: {kelas}", use_container_width=True)
 
 
 def add_custom_footer():
@@ -207,9 +209,16 @@ def add_custom_footer():
     <body>
         <div class="footer" style="text-align: center; margin-top: 30px; padding: 10px">
             <h5 style="margin: 5px 0;">AVCLA</h5>
-            <p style="margin: 5px 0;">AVCLA, merupakan sebuah website dalam mendeteksi klasifikasi burung di kawasan Taman Nasional Way Kambas. Website ini bisa mendeteksi klasifikasi pada 10 spesies burung, dengan memanfaatkan deep learning menggunakan transfer learning dengan arsitektur Convnext Type Base. Website ini bisa memprediksi spesies burung berdasarkan suara. Model ini dibangun dalam memenuhi Case Based Learning pada matakuliah SD4102Deep Learning di Program Studi Sains Data</p>
+            <p style="margin: 5px 0;">AVCLA (Aves Classification), merupakan sebuah website dalam mendeteksi klasifikasi burung di kawasan Taman Nasional Way Kambas. Website ini bisa mendeteksi klasifikasi pada 10 spesies burung, dengan memanfaatkan metode Deep Learning menggunakan Transfer Learning dengan arsitektur Convnext Type Base. Website ini bisa memprediksi spesies burung berdasarkan suara. Model ini dibangun dalam memenuhi Case Based Learning pada matakuliah SD4102Deep Learning di Program Studi Sains Data.</p>
+            <h4>‎‎‎‎‎‎‎‎ㅤ</h4>
             <h5 style="margin: 0;">© Developer: Kelompok 13 Deep Learning</h5>
-            <h5 style="margin: 5px 0;">Version 1.0.1 2024</h5>
+            <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Deployment/asset/Logo0.png" alt="Logo kelompok" width="85" height="85">
+            <h5 style="margin: 5px 0;">Version 1.0.1 December 2024</h5>
+            <p>
+                <a href="https://github.com/sains-data/Implementasi-Model-Transfer-Learning-Arsitektur-ConvNeXt-untuk-Klasifikasi-Suara-Burung-di-TNWK" target="_blank">
+                    Visit the Our GitHub Repository
+                </a>
+            </p>
       </div>
     </body>
     </html>
