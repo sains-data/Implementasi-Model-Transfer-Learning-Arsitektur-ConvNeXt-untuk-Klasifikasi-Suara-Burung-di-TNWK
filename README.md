@@ -49,11 +49,11 @@ Tahapan Proses:
 
 Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
-| Batch Size | Learning Rate  | Epochs                  | Akurasi |
-|------------|----------------|-------------------------|---------|
-| 32         |     1e-4       | 25 (Non Augmentasi Data |   0.70  |
-| 32         |     1e-4       | 25 (Augmentasi Data)    |   0.65  |
-| 32         |     1e-4       |50 (Non Augmentasi Data) |   0.69  |
-| 32         |     1e-4       |50 (Augmentasi Data)     |   0.71  |
+| Batch Size | Learning Rate  | Epochs                   | Akurasi |
+|------------|----------------|--------------------------|---------|
+| 32         |     0.0001     | 25 (Non Augmentasi Data  |   0.70  |
+| 32         |     0.0001     | 25 (Augmentasi Data)     |   0.65  |
+| 32         |     0.0001     | 50 (Non Augmentasi Data) |   0.69  |
+| 32         |     0.00       | 50 (Augmentasi Data)     |   0.71  |
 
 © Developer: Kelompok 13 Deep Learning
