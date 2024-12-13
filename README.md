@@ -27,7 +27,7 @@ Tujuan: ......
 
 📊 Metode Model : Transfer Learning (Arsitektur ConvNeXt type Base)
 
-📊 Model : https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras
+📊 Model : [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
 
 🖥 Bahasa pemrograman: Python, Html, CSS, other
 
