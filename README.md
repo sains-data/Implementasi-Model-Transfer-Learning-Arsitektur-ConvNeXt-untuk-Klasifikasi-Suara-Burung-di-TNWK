@@ -23,8 +23,9 @@ Latar Belakang: ....
 Tujuan: ......
 
 🎙 Data: 
-- https://xeno-canto.org/ (Data Audio)
-- https://avibase.bsc-eoc.org/ (referensi Daftar Persebaran burung di area atau kawasan tertentu)
+- https://xeno-canto.org/ (Sumber Data Audio)
+- https://avibase.bsc-eoc.org/ (Referensi daftar persebaran burung di area atau kawasan tertentu seluruh dunia)
+- https://www.iucnredlist.org/ (Daftar Status Konservasi Hewan)
 
 📊 Metode Pengumpulan Data: Data Crawling (APIs)
 
