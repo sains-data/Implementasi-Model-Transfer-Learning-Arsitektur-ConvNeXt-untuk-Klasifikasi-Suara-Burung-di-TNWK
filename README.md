@@ -31,6 +31,7 @@ Tujuan: ......
 🖥 Bahasa pemrograman: Python, Html, CSS, other
 
 🌐 Hosting dan Development (Streamlit): 
+https://avcla2024.streamlit.app/
 
  https://klasifikasiburung-transferlearning-kelompok13.streamlit.app/ (versi trial)
 
