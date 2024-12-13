@@ -58,7 +58,7 @@ Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 © Developer: Kelompok 13 Deep Learning
 
-Jika terdapat Kritik, Saran ataupun kendala terkait penggunaan Avcla bisa menghubungi: alber.121450146@student.itera.ac.id
+Jika terdapat Kritik, Saran ataupun kendala terkait penggunaan Avcla bisa menghubungi: R&D Manager of Avcla - alber.121450146@student.itera.ac.id
 
 
 Tampilan Website:
