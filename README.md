@@ -33,7 +33,7 @@ Tujuan: ......
 
 📊 Model : [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
 
-🖥 Bahasa pemrograman: Python, Html, CSS, other
+🖥 Bahasa pemrograman & Library: Python, Html, CSS, Tensorflow, Keras, Librosa and other
 
 🌐 Hosting dan Development (Streamlit): 
 
