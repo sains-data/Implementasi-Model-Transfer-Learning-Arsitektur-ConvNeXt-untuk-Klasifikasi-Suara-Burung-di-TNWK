@@ -1,10 +1,9 @@
 # Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Suara Burung di Taman Nasional Way Kambas
 ![image](https://github.com/user-attachments/assets/a17e5574-cc63-463d-bf67-a6fabc62ae55)
 
+Acla: https://avcla2024.streamlit.app/
 
-# --on progress--
-
-1️⃣3️⃣ Kelompok 13 Deep Learning:
+Kelompok 13 Deep Learning:
 
 - Rizki Adrian Bennovry - 121450073 
   
@@ -28,15 +27,11 @@ Tujuan: ......
 
 📊 Metode Model : Transfer Learning (Arsitektur ConvNeXt type Base)
 
+📊 Model : https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras
+
 🖥 Bahasa pemrograman: Python, Html, CSS, other
 
 🌐 Hosting dan Development (Streamlit): 
-https://avcla2024.streamlit.app/
-
- https://klasifikasiburung-transferlearning-kelompok13.streamlit.app/ (versi trial)
-
-  Rancangan(progress)--> https://drive.google.com/file/d/1mbuMNgWYskPg0sAPCgZUB8XOnfDry6dK/view?usp=sharing
-
 
 Tahapan Proses:
 - Data Crawling
