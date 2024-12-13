@@ -3,6 +3,7 @@
 ![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
 
 Avcla: https://avcla2024.streamlit.app/
+anda bisa mencoba Avcla, dengan audio pada link berikut: https://drive.google.com/drive/folders/1oEdNhsFCuxaBT8VN8tfUHUu-1DX8oNQE?usp=sharing
 
 Kelompok 13 Deep Learning:
 
