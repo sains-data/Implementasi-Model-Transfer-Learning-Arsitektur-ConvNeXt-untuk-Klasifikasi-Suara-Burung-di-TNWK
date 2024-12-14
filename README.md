@@ -63,6 +63,6 @@ Kelompok 13 Deep Learning:
 
 📳Tampilan Website:
 ![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
-![Screenshot 2024-12-13 201949](https://github.com/user-attachments/assets/7b02cfd7-6129-42d1-9f13-c51f6181a956)
+![image](https://github.com/user-attachments/assets/8500766d-88f1-436e-937c-95b87179e459)
 ![Screenshot 2024-12-13 202006](https://github.com/user-attachments/assets/24ff7474-8f33-443c-b1ef-f2e5d0a67f5b)
 
