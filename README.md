@@ -57,6 +57,7 @@ Kelompok 13 Deep Learning:
 | 32         |     0.0001     | 50 (Augmentasi Data)     |   0.71  |
 
 © Developer: Kelompok 13 Deep Learning
+
 📝Jika terdapat Kritik, Saran ataupun kendala terkait penggunaan Avcla bisa menghubungi: R&D Manager of Avcla - alber.121450146@student.itera.ac.id
 
 
