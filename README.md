@@ -55,12 +55,12 @@ Anda bisa mencoba test pengguna Avcla kami kembangkan, dengan beberapa audio yan
 | 32         |     0.0001     | 50 (Non Augmentasi Data) |   0.69  |
 | 32         |     0.0001     | 50 (Augmentasi Data)     |   0.71  |
 
-© Developer: Kelompok 13 Deep Learning
+### © Developer: Kelompok 13 Deep Learning
 
-📝Jika terdapat Kritik, Saran ataupun kendala terkait penggunaan Avcla bisa menghubungi: R&D Manager of Avcla - alber.121450146@student.itera.ac.id
+###📝Jika terdapat Kritik, Saran ataupun kendala terkait penggunaan Avcla bisa menghubungi: R&D Manager of Avcla - alber.121450146@student.itera.ac.id
 
 
-📳Tampilan Website:
+### 📳Tampilan Website:
 ![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
 ![image](https://github.com/user-attachments/assets/8500766d-88f1-436e-937c-95b87179e459)
 ![Screenshot 2024-12-13 202006](https://github.com/user-attachments/assets/24ff7474-8f33-443c-b1ef-f2e5d0a67f5b)
