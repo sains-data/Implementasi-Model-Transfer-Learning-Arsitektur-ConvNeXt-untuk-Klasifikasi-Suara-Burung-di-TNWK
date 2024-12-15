@@ -87,9 +87,9 @@ Diperoleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 5. Jika anda terdapat Kritik, Saran, kendala terkait teknis penggunaan Avcla bisa menghubungi:
  
--Email Team - deeplearning13project@gmail.com
+#### -Email Team - deeplearning13project@gmail.com
 
--Developer Avcla - alber.121450146@student.itera.ac.id
+#### -Developer Avcla - alber.121450146@student.itera.ac.id
 
 
 ### Salam hangat dari kami Kelompok 13 Deep Learning TA 2024/2025
