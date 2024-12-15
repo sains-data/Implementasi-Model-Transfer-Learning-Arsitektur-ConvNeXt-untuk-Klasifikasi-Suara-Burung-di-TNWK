@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
 
-## Kelompok 13 Deep Learning:
+## Kelompok 13 Deep Learning
 
 - Rizki Adrian Bennovry - 121450073 
   
@@ -22,17 +22,17 @@ Anda bisa mencoba test pengguna **Avcla** kami kembangkan, dengan beberapa audio
 
 Berikut Link AVCLA : https://avcla2024.streamlit.app/ (Versi Beta)
 
-## 📌Latar Belakang: 
+## 📌Latar Belakang 
 -
 -
 -
 
-## 📌Tujuan: 
+## 📌Tujuan 
 -
 -
 -
 
-## 🎙 Data: 
+## 🎙 Data 
 - https://xeno-canto.org/ (Sumber Data Audio)
 - https://avibase.bsc-eoc.org/ (Referensi daftar persebaran burung di area atau kawasan tertentu seluruh dunia)
 
@@ -40,16 +40,16 @@ Berikut Link AVCLA : https://avcla2024.streamlit.app/ (Versi Beta)
 
 ## 📊 Metode Deep Learning : Transfer Learning (Arsitektur ConvNeXt type Base)
 
-## 🧠 Arsitektur Model Convnext:
+## 🧠 Arsitektur Model Convnext
 
 
-## 🧠 Model : [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
+## 🧠 Model  [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
 
 ## 🖥 Bahasa pemrograman & Library: Python, Html, CSS, Tensorflow, Keras, Librosa and other
 
-## 🌐 Hosting dan Development (Streamlit): 
+## 🌐 Hosting dan Development: Streamlit
 
-## 📚Tahapan Proses:
+## 📚Tahapan Proses
 - Data Crawling
 - Data Preprocessing & Processing
 - Split Data
@@ -59,7 +59,9 @@ Berikut Link AVCLA : https://avcla2024.streamlit.app/ (Versi Beta)
 - System integration & deployment to website
 
 
-## 📈 Hasil Akurasi Implementasi Model dengan beberapa parameter:
+## 📈 Akurasi Model 
+
+Dieproeleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 | Batch Size | Learning Rate  | Epochs                   | Akurasi |
 |------------|----------------|--------------------------|---------|
