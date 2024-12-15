@@ -14,7 +14,7 @@
   
 - Helma Lia Putri - 121450100
 
-## 📱**AVCLA** 
+## 📱**AVCLA, apa itu?** 
 
 **AVCLA (Aves Classification Apps)**, merupakan sebuah website dalam mendeteksi klasifikasi burung di kawasan **Taman Nasional Way Kambas**. Website ini bisa mendeteksi klasifikasi pada 10 spesies burung, dengan **Implementasi metode Deep Learning menggunakan Transfer Learning dengan arsitektur Convnext Type Base**. Website ini bisa memprediksi spesies burung berdasarkan suara yang diberikan. Model yang digunakan pada deployment adalah model yang terbaik dari beberapa parameter yang telah digunakan dalam memperoleh performa dan akurasi sangat baik.
 
