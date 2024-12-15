@@ -56,7 +56,7 @@ Anda bisa mencoba test pengguna Avcla kami kembangkan, dengan beberapa audio yan
 | **32**     |   **0.0001**   | **50 (Augmentasi Data)**   | **0.71** |
 
 
-### 📝Jika terdapat Kritik, Saran ataupun kendala terkait penggunaan Avcla bisa menghubungi: R&D Manager of Avcla - alber.121450146@student.itera.ac.id
+### 📝Jika terdapat Kritik, Saran ataupun kendala terkait penggunaan Avcla bisa menghubungi: Developer of Avcla apps - alber.121450146@student.itera.ac.id
 
 
 ### 📳Tampilan Website:
