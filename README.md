@@ -85,7 +85,7 @@ Diperoleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 4. Dan anda juga bisa melihat direktori Avcla pada link github ini terkait informasi model ataupun deployment. 
 
-5.Jika anda terdapat Kritik, Saran, kendala terkait teknis penggunaan Avcla bisa menghubungi:
+5. Jika anda terdapat Kritik, Saran, kendala terkait teknis penggunaan Avcla bisa menghubungi:
  
 -Email Team - deeplearning13project@gmail.com
 
