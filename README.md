@@ -65,4 +65,4 @@ Anda bisa mencoba test pengguna Avcla kami kembangkan, dengan beberapa audio yan
 ![Screenshot 2024-12-13 202006](https://github.com/user-attachments/assets/24ff7474-8f33-443c-b1ef-f2e5d0a67f5b)
 
 
-## © Developer: Kelompok 13 Deep Learning
+### © Developer: Kelompok 13 Deep Learning
