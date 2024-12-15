@@ -18,9 +18,15 @@ Anda bisa mencoba test pengguna **Avcla** kami kembangkan, dengan beberapa audio
   
 - Helma Lia Putri - 121450100
 
-## 📌Latar Belakang: ....
+## 📌Latar Belakang: 
+-
+-
+-
 
-## 📌Tujuan: ......
+## 📌Tujuan: 
+-
+-
+-
 
 ## 🎙 Data: 
 - https://xeno-canto.org/ (Sumber Data Audio)
