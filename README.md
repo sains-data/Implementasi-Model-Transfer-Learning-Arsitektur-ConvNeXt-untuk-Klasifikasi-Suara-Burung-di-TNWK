@@ -61,7 +61,7 @@ Berikut Link AVCLA : https://avcla2024.streamlit.app/ (Versi Beta)
 
 ## 📈 Akurasi Model 
 
-Dieproeleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
+Diperoleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 | Batch Size | Learning Rate  | Epochs                   | Akurasi |
 |------------|----------------|--------------------------|---------|
