@@ -56,7 +56,7 @@ Berikut Link AVCLA : https://avcla2024.streamlit.app/ (Versi Beta)
 - System integration & deployment to website
 
 
-## 📈Hasil Akurasi Implementasi Model dengan beberapa parameter:
+## 📈 Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 | Batch Size | Learning Rate  | Epochs                   | Akurasi |
 |------------|----------------|--------------------------|---------|
@@ -66,13 +66,12 @@ Berikut Link AVCLA : https://avcla2024.streamlit.app/ (Versi Beta)
 | **32**     |   **0.0001**   | **50 (Augmentasi Data)**   | **0.71** |
 
 
-### 📝Jika terdapat Kritik, Saran ataupun kendala terkait penggunaan Avcla bisa menghubungi: Developer of Avcla apps - alber.121450146@student.itera.ac.id
-
-
 ### 📳Tampilan Website:
 ![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
 ![image](https://github.com/user-attachments/assets/8500766d-88f1-436e-937c-95b87179e459)
 ![Screenshot 2024-12-13 202006](https://github.com/user-attachments/assets/24ff7474-8f33-443c-b1ef-f2e5d0a67f5b)
+
+### 📝Jika terdapat Kritik, Saran ataupun kendala terkait penggunaan Avcla bisa menghubungi: Developer of Avcla apps - alber.121450146@student.itera.ac.id
 
 
 ### © Developer: Kelompok 13 Deep Learning
