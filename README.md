@@ -83,13 +83,16 @@ Diperoleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 ![image](https://github.com/user-attachments/assets/8500766d-88f1-436e-937c-95b87179e459)
 
-4. Dan anda bisa melihat direktori Avcla pada link github yabg tertera. Jika anda terdapat Kritik, Saran, kendala terkait teknis penggunaan Avcla bisa menghubungi:
+4. Dan anda juga bisa melihat direktori Avcla pada link github ini terkait informasi model ataupun deployment. 
+
+5.Jika anda terdapat Kritik, Saran, kendala terkait teknis penggunaan Avcla bisa menghubungi:
  
 -Email Team - deeplearning13project@gmail.com
 
 -Developer Avcla - alber.121450146@student.itera.ac.id
 
 
-
+### Salam hangat dari kami Kelompok 13 Deep Learning TA 2024/2025
 ### © Developer: Kelompok 13 Deep Learning
 ### #FromSumateraForSumatera
+### #DataScience
