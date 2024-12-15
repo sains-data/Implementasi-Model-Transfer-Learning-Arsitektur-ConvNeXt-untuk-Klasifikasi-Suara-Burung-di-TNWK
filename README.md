@@ -45,7 +45,15 @@ Berikut Link AVCLA : https://avcla2024.streamlit.app/ (Versi Beta)
 
 ## 🧠 Model  [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
 
-## 🖥 Bahasa pemrograman & Library: Python, Html, CSS, Tensorflow, Keras, Librosa and other
+## 🖥 Bahasa pemrograman & Library 
+
+- Python
+- Tensorflow
+- Keras
+- Librosa
+- Html
+- CSS
+- and others
 
 ## 🌐 Hosting dan Development: Streamlit
 
