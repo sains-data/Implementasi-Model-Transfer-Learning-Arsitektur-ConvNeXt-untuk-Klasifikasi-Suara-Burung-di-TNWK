@@ -2,9 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
 
-#📱**Avcla**: https://avcla2024.streamlit.app/ (Versi Beta)
+#📱**AVCLA**: https://avcla2024.streamlit.app/ (Versi Beta)
 
-Avcla
+**AVCLA (Aves Classification Apps)**, merupakan sebuah website dalam mendeteksi klasifikasi burung di kawasan **Taman Nasional Way Kambas**. Website ini bisa mendeteksi klasifikasi pada 10 spesies burung, dengan **Implementasi metode Deep Learning menggunakan Transfer Learning dengan arsitektur Convnext Type Base**. Website ini bisa memprediksi spesies burung berdasarkan suara yang diberikan. Model yang digunakan pada deployment adalah model yang terbaik dari beberapa parameter yang telah digunakan dalam memperoleh performa dan akurasi sangat baik.
 
 Anda bisa mencoba test pengguna **Avcla** kami kembangkan, dengan beberapa audio yang tersedia pada link berikut: https://drive.google.com/drive/folders/1oEdNhsFCuxaBT8VN8tfUHUu-1DX8oNQE?usp=sharing.
 
