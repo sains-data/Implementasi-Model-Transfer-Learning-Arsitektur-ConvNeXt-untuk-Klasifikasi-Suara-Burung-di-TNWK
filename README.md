@@ -75,7 +75,7 @@ Diperoleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 1. Anda Terlebih dahulu, silahkan buka browser anda pada perangkat anda (smartphone atau pc) dan lalu tulis ataupun klik link berikut : https://avcla2024.streamlit.app/
 
-2. Selanjutnya input audio burung yang untuk mengetahui klasifikasi spesies burung pada bagian browser files.
+2. Selanjutnya input audio burung yang untuk mengetahui klasifikasi spesies burung pada bagian browser files (ketentuan audio yang bisa diinput berformat mp3, dengan limit maksimum ukuran file 200 mb.
 
 ![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
 
