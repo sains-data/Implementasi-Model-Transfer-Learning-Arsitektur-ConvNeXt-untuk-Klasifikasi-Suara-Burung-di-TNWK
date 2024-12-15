@@ -75,7 +75,7 @@ Diperoleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 1. Terlebih dahulu buka browser anda pada perangkat anda (smartphone atau pc) dan lalu tulis link berikut : https://avcla2024.streamlit.app/
 
-2. Selanjutnya masukkan audio burung yang ingin anda lakukan untuk mengetahui klasifikasi spesies burung
+2. Selanjutnya input audio burung yang ingin anda lakukan untuk mengetahui klasifikasi spesies burung pada bagian browser
 
 ![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
 ![image](https://github.com/user-attachments/assets/8500766d-88f1-436e-937c-95b87179e459)
