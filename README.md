@@ -28,7 +28,7 @@ Anda bisa mencoba test pengguna Avcla kami kembangkan, dengan beberapa audio yan
 
 ## 📂 Metode Pengumpulan Data: Data Crawling (APIs)
 
-## 📊 Metode Model : Transfer Learning (Arsitektur ConvNeXt type Base)
+## 📊 Metode Deep Learning : Transfer Learning (Arsitektur ConvNeXt type Base)
 
 ## 🧠 Model : [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
 
