@@ -71,7 +71,12 @@ Diperoleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 | **32**     |   **0.0001**   | **50 (Augmentasi Data)**   | **0.71** |
 
 
-### 📳Tampilan Website:
+### 📳 Panduan Penggunaan Avcla:
+
+1. Terlebih dahulu buka browser anda pada perangkat anda (smartphone atau pc) dan lalu tulis link berikut : https://avcla2024.streamlit.app/
+
+2. Selanjutnya masukkan audio burung yang ingin anda lakukan untuk mengetahui klasifikasi spesies burung
+
 ![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
 ![image](https://github.com/user-attachments/assets/8500766d-88f1-436e-937c-95b87179e459)
 ![Screenshot 2024-12-13 202006](https://github.com/user-attachments/assets/24ff7474-8f33-443c-b1ef-f2e5d0a67f5b)
