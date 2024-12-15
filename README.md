@@ -4,9 +4,9 @@
 
 📱Avcla: https://avcla2024.streamlit.app/ (Versi Beta)
 
-anda bisa mencoba test Avcla kami kembangkan, dengan beberapa audio yang tersedia pada link berikut: https://drive.google.com/drive/folders/1oEdNhsFCuxaBT8VN8tfUHUu-1DX8oNQE?usp=sharing
+Anda bisa mencoba test pengguna Avcla kami kembangkan, dengan beberapa audio yang tersedia pada link berikut: https://drive.google.com/drive/folders/1oEdNhsFCuxaBT8VN8tfUHUu-1DX8oNQE?usp=sharing.
 
-Kelompok 13 Deep Learning:
+## Kelompok 13 Deep Learning:
 
 - Rizki Adrian Bennovry - 121450073 
   
@@ -18,26 +18,25 @@ Kelompok 13 Deep Learning:
   
 - Helma Lia Putri - 121450100
 
-📌Latar Belakang: ....
+## 📌Latar Belakang: ....
 
-📌Tujuan: ......
+## 📌Tujuan: ......
 
-🎙 Data: 
+## 🎙 Data: 
 - https://xeno-canto.org/ (Sumber Data Audio)
 - https://avibase.bsc-eoc.org/ (Referensi daftar persebaran burung di area atau kawasan tertentu seluruh dunia)
-- https://www.iucnredlist.org/ (Daftar Status Konservasi Hewan)
 
-📂 Metode Pengumpulan Data: Data Crawling (APIs)
+## 📂 Metode Pengumpulan Data: Data Crawling (APIs)
 
-📊 Metode Model : Transfer Learning (Arsitektur ConvNeXt type Base)
+## 📊 Metode Model : Transfer Learning (Arsitektur ConvNeXt type Base)
 
-🧠 Model : [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
+## 🧠 Model : [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
 
-🖥 Bahasa pemrograman & Library: Python, Html, CSS, Tensorflow, Keras, Librosa and other
+## 🖥 Bahasa pemrograman & Library: Python, Html, CSS, Tensorflow, Keras, Librosa and other
 
-🌐 Hosting dan Development (Streamlit): 
+## 🌐 Hosting dan Development (Streamlit): 
 
-📚Tahapan Proses:
+## 📚Tahapan Proses:
 - Data Crawling
 - Data Preprocessing & Processing
 - Split Data
@@ -47,7 +46,7 @@ Kelompok 13 Deep Learning:
 - System integration & deployment to website
 
 
-📈Hasil Akurasi Implementasi Model dengan beberapa parameter:
+## 📈Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 | Batch Size | Learning Rate  | Epochs                   | Akurasi |
 |------------|----------------|--------------------------|---------|
