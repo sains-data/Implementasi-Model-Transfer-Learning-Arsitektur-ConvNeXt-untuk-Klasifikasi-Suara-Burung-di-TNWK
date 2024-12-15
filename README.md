@@ -40,6 +40,9 @@ Berikut Link AVCLA : https://avcla2024.streamlit.app/ (Versi Beta)
 
 ## 📊 Metode Deep Learning : Transfer Learning (Arsitektur ConvNeXt type Base)
 
+## 🧠 Arsitektur Model Convnext:
+
+
 ## 🧠 Model : [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
 
 ## 🖥 Bahasa pemrograman & Library: Python, Html, CSS, Tensorflow, Keras, Librosa and other
