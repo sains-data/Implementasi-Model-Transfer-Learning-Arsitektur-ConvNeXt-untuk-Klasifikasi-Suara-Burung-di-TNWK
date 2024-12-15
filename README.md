@@ -99,6 +99,8 @@ Diperoleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 #### Developer Avcla - alber.121450146@student.itera.ac.id
 
+Panduan penggunaan Avcla juga bisa diakses pada link berikut : youtube.com/???
+
 
 ### Salam hangat dari kami Kelompok 13 Deep Learning TA 2024/2025
 ### © Developer: Kelompok 13 Deep Learning
