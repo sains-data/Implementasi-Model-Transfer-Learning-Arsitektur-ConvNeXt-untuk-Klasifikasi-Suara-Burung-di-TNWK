@@ -53,7 +53,7 @@ Anda bisa mencoba test pengguna Avcla kami kembangkan, dengan beberapa audio yan
 | 32         |     0.0001     | 25 (Non Augmentasi Data  |   0.70  |
 | 32         |     0.0001     | 25 (Augmentasi Data)     |   0.65  |
 | 32         |     0.0001     | 50 (Non Augmentasi Data) |   0.69  |
-| 32         |     0.0001     | 50 (Augmentasi Data)     |   0.71  |
+| **32**     |   **0.0001**   | **50 (Augmentasi Data)**   | **0.71** |
 
 ### © Developer: Kelompok 13 Deep Learning
 
