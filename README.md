@@ -26,12 +26,11 @@ Berikut Link AVCLA : https://avcla2024.streamlit.app/ (Versi Beta)
 - https://xeno-canto.org/ (Sumber Data Audio)
 - https://avibase.bsc-eoc.org/ (Referensi daftar persebaran burung di area atau kawasan tertentu seluruh dunia)
 
-## 📂 Metode Pengumpulan Data: Data Crawling (APIs)
+## 📂 Metode Pengumpulan Data
+Data Crawling (APIs)
 
-## 📊 Metode Deep Learning : Transfer Learning (Arsitektur ConvNeXt type Base)
-
-## 🧠 Arsitektur Model Convnext
-
+## 📊 Metode Deep Learning 
+Transfer Learning (Arsitektur ConvNeXt type Base)
 
 ## 🧠 Model  [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
 
@@ -89,5 +88,4 @@ Panduan penggunaan Avcla juga bisa diakses pada link berikut : youtube.com/???
 
 ### Salam hangat dari kami Kelompok 13 Deep Learning TA 2024/2025
 ### © Developer: Kelompok 13 Deep Learning
-### #FromSumateraForSumatera
-### #DataScience
+### #FromSumateraForSumatera #DataScience
