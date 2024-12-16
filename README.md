@@ -33,6 +33,7 @@ Data Crawling (APIs)
 Transfer Learning (Arsitektur ConvNeXt type Base)
 
 ## 🧠 Model  
+
 ####[https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
 
 ## 🖥 Bahasa Pemrograman & Library 
