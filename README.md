@@ -1,6 +1,6 @@
 # **Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Suara Burung di Taman Nasional Way Kambas- Kelompok 13 (Avcla)**
 
-![image](https://github.com/user-attachments/assets/546cf905-33dd-4c77-a772-7a87ac493110)
+![image](https://github.com/user-attachments/assets/7e181b3e-d408-4490-b4df-b037d980c566)
 
 ## Kelompok 13 Deep Learning
 
