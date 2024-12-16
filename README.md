@@ -32,7 +32,7 @@ Data Crawling (APIs)
 ## 📊 Metode Deep Learning 
 Transfer Learning (Arsitektur ConvNeXt type Base)
 
-## 🧠 Model  [https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
+## 🧠 Model  ####[https://raw.githubusercontent.com/alberanalafean22/convnextkeras/main/convnextaugmentasiepochs50.keras](https://github.com/alberanalafean22/convnextkeras)
 
 ## 🖥 Bahasa Pemrograman & Library 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  ![Librosa](https://img.shields.io/badge/-Librosa-FF6F00?style=flat&logo=soundcloud&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white) 
