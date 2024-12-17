@@ -8,11 +8,12 @@
   
 - Alber Analafean - 121450146 
   
-- Nabilah Andika Fitriani - 121450139 
-
-- Catherine Firdhasari Maulina Sinaga - 121450072
+- Nabilah Andika Fitriani - 121450139
   
 - Helma Lia Putri - 121450100
+  
+- Catherine Firdhasari Maulina Sinaga - 121450072
+  
 
 ## 📱**AVCLA, apa itu?** 
 
