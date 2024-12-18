@@ -88,7 +88,5 @@ Diperoleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 #### Panduan penggunaan Avcla juga bisa diakses pada link berikut : youtube.com/???
 
+![gk](https://github.com/user-attachments/assets/11f6df3c-1965-45b3-a30d-f3d32094bac4)
 
-### Salam hangat dari kami Kelompok 13 Deep Learning TA 2024/2025
-### © Developer: Kelompok 13 Deep Learning
-### #FromSumateraForSumatera #DataScience
