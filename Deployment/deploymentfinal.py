@@ -42,8 +42,14 @@ add_custom_header()
 import gdown
 import tensorflow as tf
 
-# Corrected Google Drive URL
-drive_url = "https://drive.google.com/uc?id=1HNV0talV3HDmtkYUFZ6u0_hrugPcF4uc"
+# Corrected Google Drive URL  (Ada Quota Excedeed per hari, karena akses web terlalu sering dan banyak secara bersamaan dalam satu waktu
+drive_url = "https://drive.google.com/uc?id=1HNV0talV3HDmtkYUFZ6u0_hrugPcF4uc"  #alternatif model 1 Exceeded   akun analafeanalber
+#drive_url = "https://drive.google.com/uc?id=1-6TpLc73-nLMn1z6vQEVjbr5uZHZLnsq"    #alternatif model 2 Exceede 18.00  akun kelompok
+#drive_url =  "https://drive.google.com/uc?id=1byy1lD2glyvUaA4Ht_xesnsmzJxomZv5" #alternatif model 3  akun lbero
+#drive_url =  "https://drive.google.com/uc?id=/10vvxBdSrSL0GvOV2Ymxu7TNdYnHnSgeJ" #alternatif model 4  akun cloudalber
+#drive_url =  "https://drive.google.com/uc?id=/179lgPiQpbdtu6Rnakf8kumoMGF1RO3Kb"  #alternatif model 5 akun alberanalafean
+
+
 
 # Output path for the downloaded file
 output_path = "convnextaugmentasiepochs50.keras"
@@ -154,7 +160,7 @@ def add_bg_from_url():
 add_bg_from_url()
 
 # File uploader untuk audio
-uploaded_file = st.file_uploader("Upload File Audio disini (!format mp3)", type=["mp3"])
+uploaded_file = st.file_uploader("Upload File Audio disini (format mp3!)", type=["mp3"])
 
 if uploaded_file:
     # Proses file audio
@@ -209,10 +215,10 @@ def add_custom_footer():
     <body>
         <div class="footer" style="text-align: center; margin-top: 30px; padding: 10px">
             <h5 style="margin: 5px 0;">AVCLA</h5>
-            <p style="margin: 5px 0;">AVCLA (Aves Classification), merupakan sebuah website dalam mendeteksi klasifikasi burung di kawasan Taman Nasional Way Kambas. Website ini bisa mendeteksi klasifikasi pada 10 spesies burung, dengan memanfaatkan metode Deep Learning menggunakan Transfer Learning dengan arsitektur Convnext Type Base. Website ini bisa memprediksi spesies burung berdasarkan suara. Model ini dibangun dalam memenuhi Case Based Learning pada matakuliah SD4102Deep Learning di Program Studi Sains Data.</p>
+            <p style="margin: 5px 0;">AVCLA (Aves Classification), merupakan sebuah website dalam mendeteksi klasifikasi burung di kawasan Taman Nasional Way Kambas. Website ini bisa mendeteksi klasifikasi pada 10 spesies burung, dengan memanfaatkan metode Deep Learning menggunakan Transfer Learning dengan arsitektur Convnext Type Base. Website ini bisa memprediksi spesies burung berdasarkan suara. Model ini dibangun dalam memenuhi Case Based Learning pada matakuliah SD4102 Deep Learning di Program Studi Sains Data.</p>
             <h4>‎‎‎‎‎‎‎‎ㅤ</h4>
             <h5 style="margin: 0;">© Developer: Kelompok 13 Deep Learning</h5>
-            <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Deployment/asset/Logo0.png" alt="Logo kelompok" width="85" height="85">
+            <img src="https://raw.githubusercontent.com/deeplearning13projectsd/DeteksiKlasifikasiSpesiesBurung/main/Deployment/asset/avcla.png" alt="Logo kelompok" width="150" height="150">
             <h5 style="margin: 5px 0;">Version 1.0.1 December 2024</h5>
             <p>
                 <a href="https://github.com/sains-data/Implementasi-Model-Transfer-Learning-Arsitektur-ConvNeXt-untuk-Klasifikasi-Suara-Burung-di-TNWK" target="_blank">
