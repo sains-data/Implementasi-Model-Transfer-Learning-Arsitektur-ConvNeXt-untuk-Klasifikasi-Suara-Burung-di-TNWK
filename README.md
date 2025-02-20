@@ -21,7 +21,9 @@
 
 Anda bisa mencoba test pengguna **Avcla** kami kembangkan, dengan beberapa audio yang tersedia pada link berikut: https://drive.google.com/drive/folders/1oEdNhsFCuxaBT8VN8tfUHUu-1DX8oNQE?usp=sharing.
 
-Berikut Link AVCLA : https://avcla2024.streamlit.app/ (Versi Beta)
+Berikut Link AVCLA : 
+-  https://avcla2024.streamlit.app/ (Versi  1.0.1)
+-  https://a..... (Versi 1.0.2)
 
 ## 🎙 Data 
 - https://xeno-canto.org/ (Sumber Data Audio)
