@@ -88,7 +88,7 @@ Diperoleh Hasil Akurasi Implementasi Model dengan beberapa parameter:
 
 #### Developer Avcla - alber.121450146@student.itera.ac.id
 
-#### Panduan penggunaan Avcla juga bisa diakses pada link berikut : youtube.com/???
+#### Panduan penggunaan Avcla juga bisa diakses pada link berikut : [youtube.com](https://youtu.be/oECrquAk25g?si=kJDsmNrQGPjVCmwa)
 
 ![gk](https://github.com/user-attachments/assets/11f6df3c-1965-45b3-a30d-f3d32094bac4)
 
